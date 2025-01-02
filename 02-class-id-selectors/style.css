@@ -1,0 +1,19 @@
+p {
+    background: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div:first-of-type {
+    color: blue;
+    font-size: 36px;
+}
+
+p.third {
+    font-size: 24px;
+}
+
+div.fourth {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
